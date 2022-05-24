@@ -1,10 +1,10 @@
-FROM node:17.9.0
-#FROM node:latest AS something
+#FROM node:17.9.0
+FROM node:latest AS something
 
-#RUN something
+RUN something
 
-#FROM node AS something-else
+FROM node AS something-else
 
-#RUN something
+RUN something
 
-#FROM docker.io/circleci/node
+FROM docker.io/circleci/node
