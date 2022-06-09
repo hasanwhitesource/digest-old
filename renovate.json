@@ -1,5 +1,6 @@
 {
 "extends": [
     "github>hasanwhitesource/changelogs-15088:renovate.json"
-  ]
+  ],
+ "printExtendsConfig": true
 }
