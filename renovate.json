@@ -1,7 +1,6 @@
 {
 "extends": [
     "config:base",
-    "github>hasanwhitesource/changelogs-15088:renovate.json",
     "github>hasanwhitesource/renovate-rhel:renovate.json"
   ]
 }
