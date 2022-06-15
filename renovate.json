@@ -1,6 +1,5 @@
 {
 "extends": [
-    "config:base",
     "github>hasanwhitesource/renovate-rhel:renovate.json"
   ]
 }
